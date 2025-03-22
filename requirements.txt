@@ -1,0 +1,2 @@
+torch>=1.9.0    # PyTorch library
+numpy>=1.21.0   # For tensor operations and possible compatibility
